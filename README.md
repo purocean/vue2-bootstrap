@@ -5,6 +5,7 @@
 
 ## TODO
 - [x] Navbar
+- [x] Dropdown
 - [ ] Accordion
 - [ ] Affix
 - [ ] Alert
@@ -13,7 +14,6 @@
 - [ ] Carousel
 - [ ] Checkbox
 - [ ] Datepicker
-- [ ] Dropdown
 - [ ] FormGroup
 - [ ] Input
 - [ ] Modal
