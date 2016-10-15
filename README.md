@@ -6,7 +6,7 @@
 ## TODO
 - [x] Navbar
 - [x] Dropdown
-- [ ] Alert
+- [x] Alert
 - [ ] Accordion
 - [ ] Affix
 - [ ] Aside
