@@ -4,7 +4,7 @@
 *Developing...*
 
 ## TODO
-- [+] Navbar
+- [x] Navbar
 - [ ] Accordion
 - [ ] Affix
 - [ ] Alert
