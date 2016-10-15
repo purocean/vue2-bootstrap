@@ -15,18 +15,21 @@
       <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Something else here</a></li>
       <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Separated link</a></li>
     </dropdown>
+    <alert type="success" width="400px" :dismissable="true" placement="top">hello</alert>
   </div>
 </template>
 
 <script>
 import {
   Navbar,
-  Dropdown
+  Dropdown,
+  Alert
 } from './lib.js'
 export default {
   components: {
     Navbar,
-    Dropdown
+    Dropdown,
+    Alert
   },
   data () {
     return {

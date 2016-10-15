@@ -6,9 +6,9 @@
 ## TODO
 - [x] Navbar
 - [x] Dropdown
+- [ ] Alert
 - [ ] Accordion
 - [ ] Affix
-- [ ] Alert
 - [ ] Aside
 - [ ] buttonGroup
 - [ ] Carousel
