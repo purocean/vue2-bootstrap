@@ -1,5 +1,5 @@
 <template>
-  <nav v-el:navbar :class="['navbar',{
+  <nav :class="['navbar',{
     'navbar-inverse':(type == 'inverse'),
     'navbar-default':(type == 'default'),
     'navbar-fixed-top':(placement === 'top'),
